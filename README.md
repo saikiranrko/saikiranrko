@@ -96,15 +96,6 @@ I'm a **Platform DevOps Engineer** with **8+ years** of experience designing and
   <a href="https://linkedin.com/in/saikiranrko" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Saikiran%20Meradikonda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://youtube.com/@saikiranrko" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://medium.com/@saikiranrko" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://instagram.com/saikiranrko" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
 </p>
 
 ---
@@ -137,15 +128,6 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 <p align="center">
   <a href="https://linkedin.com/in/saikiranrko" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@saikiranrko" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Read%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://youtube.com/@saikiranrko" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Watch%20Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://instagram.com/saikiranrko" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
