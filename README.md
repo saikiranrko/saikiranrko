@@ -19,7 +19,6 @@
 I'm a **Platform DevOps Engineer** with **8+ years** of experience designing and operating cloud-native infrastructure across Azure, AWS, and GCP. I'm passionate about building resilient, secure, and automated platforms that power engineering teams at scale.
 
 - 🚀 **Currently:** Architecting multi-cloud Kubernetes platforms (AKS) with GitOps & AI/ML workload support
-- 🎥 **Content Creator:** Sharing DevOps tips on **YouTube**, **Medium**, and **Instagram** — making cloud concepts accessible to everyone
 - 🔐 **Security-first mindset:** CKA certified, obsessed with zero-trust, secrets management, and supply chain security
 - 🤖 **AI/ML Platform nerd:** Building LLM-powered pipelines with LangGraph, LangChain, Qdrant & Vertex AI
 - ✍️ **Fun fact:** I can debug a Helm chart at 2AM and still write a Medium article about it the next morning ☕
