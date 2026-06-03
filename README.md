@@ -93,7 +93,7 @@ I'm a **Platform DevOps Engineer** with **8+ years** of experience designing and
 ## 🌐 Find Me Online
 
 <p align="left">
-  <a href="https://linkedin.com/in/saikiranrko" target="_blank">
+  <a href="https://linkedin.com/in/saikiranmeradikonda" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Saikiran%20Meradikonda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -126,7 +126,7 @@ I'm a **Platform DevOps Engineer** with **8+ years** of experience designing and
 I'm always open to interesting conversations, collaboration opportunities, and new challenges. Whether you want to talk cloud architecture, DevOps best practices, AI/ML platforms, or just geek out about Kubernetes — feel free to reach out!
 
 <p align="center">
-  <a href="https://linkedin.com/in/saikiranrko" target="_blank">
+  <a href="https://linkedin.com/in/saikiranmeradikonda" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
