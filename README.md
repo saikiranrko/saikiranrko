@@ -136,5 +136,5 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 </p>
 
 <p align="center">
-  Made with ❤️ by <b>Saikiran Meradikonda</b> | Platform DevOps Engineer | Cloud Native Enthusiast
+  <b>Saikiran Meradikonda</b> | Platform DevOps Engineer | Cloud Native Enthusiast
 </p>
