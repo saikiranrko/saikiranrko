@@ -16,7 +16,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **Platform DevOps Engineer** with **8+ years** of experience designing and operating cloud-native infrastructure across Azure, AWS, and GCP. I'm passionate about building resilient, secure, and automated platforms that power engineering teams at scale.
+I'm a **Platform DevOps Engineer** with **10 years** of experience designing and operating cloud-native infrastructure across Azure, AWS, and GCP. I'm passionate about building resilient, secure, and automated platforms that power engineering teams at scale.
 
 - 🚀 **Currently:** Architecting multi-cloud Kubernetes platforms (AKS) with GitOps & AI/ML workload support
 - 🔐 **Security-first mindset:** CKA certified, obsessed with zero-trust, secrets management, and supply chain security
