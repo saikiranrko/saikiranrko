@@ -1,6 +1,10 @@
 <div align="center">
 
-![Saikiran](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:030B17,45:082A46,100:00B4D8&text=SAIKIRAN&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=Platform%20Engineering%20%E2%80%A2%20DevSecOps%20%E2%80%A2%20Cloud%20Native&descAlignY=57&descSize=18&animation=fadeIn)
+<img src="./platform-hero.png" alt="Cloud platform engineering landscape" width="100%" />
+
+# SAIKIRAN
+
+`PLATFORM ENGINEERING` · `DEVSECOPS` · `CLOUD NATIVE` · `AI INFRASTRUCTURE`
 
 ### Designing secure platforms. Automating the complex. Engineering for scale.
 
@@ -9,6 +13,18 @@ I build resilient cloud-native foundations that make software delivery faster, s
 </div>
 
 ---
+
+## The platform story
+
+<div align="center">
+
+| FOUNDATIONS | PLATFORM | EXPERIENCE | OUTCOME |
+|:---:|:---:|:---:|:---:|
+| ☁️ Multi-cloud<br/>🔐 Identity<br/>🌐 Networking | ☸️ Kubernetes<br/>🏗️ Infrastructure as Code<br/>📡 Observability | ⚡ Self-service<br/>🔁 Automated delivery<br/>🛡️ Guardrails | 🚀 Faster delivery<br/>💎 Reliable systems<br/>🤝 Confident teams |
+
+</div>
+
+> I turn complex infrastructure into dependable platforms—bringing cloud, automation, security, and developer experience together as one cohesive product.
 
 ## Engineering focus
 
@@ -43,7 +59,7 @@ I build resilient cloud-native foundations that make software delivery faster, s
   </tr>
 </table>
 
-## What I bring
+## How I engineer
 
 ```text
   ARCHITECT  →  Cloud-native platforms built for security and resilience
@@ -54,11 +70,11 @@ I build resilient cloud-native foundations that make software delivery faster, s
   EVOLVE     →  Practical AI platform engineering for emerging workloads
 ```
 
-## Technology landscape
+## Selected toolkit
 
 <div align="center">
 
-### Cloud & orchestration
+### Build the foundation
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -68,7 +84,7 @@ I build resilient cloud-native foundations that make software delivery faster, s
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
 
-### Infrastructure & delivery
+### Automate the journey
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
@@ -78,7 +94,7 @@ I build resilient cloud-native foundations that make software delivery faster, s
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### Security & reliability
+### Protect and understand
 
 ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
@@ -89,7 +105,7 @@ I build resilient cloud-native foundations that make software delivery faster, s
 
 </div>
 
-## Platform philosophy
+## Principles I build by
 
 > **The best platform is one developers trust, security teams approve, and operations teams can understand.**
 
